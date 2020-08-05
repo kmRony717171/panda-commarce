@@ -1,0 +1,22 @@
+.container{
+    margin-bottom: 50px;
+}
+.my-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+    padding: 20px 40px;
+}
+.price{
+    color: rgb(233, 0, 116);
+}
+.my-button{
+    padding: 9px 25px;
+    color: white;
+    background-image: linear-gradient(to bottom,rgb(247, 4, 126),rgba(247, 4, 126, 0.767));
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.my-button:hover{
+    background-image: linear-gradient(to bottom,rgba(247, 4, 126, 0.801),rgba(247, 4, 126, 0.562));
+}
