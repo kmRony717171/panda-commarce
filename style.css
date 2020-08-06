@@ -1,6 +1,7 @@
 .container{
     margin-bottom: 50px;
 }
+/* Carousel */
 .my-bg{
     background-color: #fceae8;
     border-radius: 10px;
@@ -19,4 +20,29 @@
 }
 .my-button:hover{
     background-image: linear-gradient(to bottom,rgba(247, 4, 126, 0.801),rgba(247, 4, 126, 0.562));
+}
+/* Catagories */
+.catagories h1{
+    color: white;
+}
+.catagories img{
+    width: 120px;
+}
+.cat1, .cat2, .cat3{
+    padding: 15px;
+    border-radius: 10px;
+}
+.cat1{
+    background-color: rgb(189, 47, 255);
+}
+.cat2{
+    background-color: hotpink;
+}
+.cat3{
+    background-color: rgb(16, 174, 226);
+}
+/* Shoes */
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
 }
